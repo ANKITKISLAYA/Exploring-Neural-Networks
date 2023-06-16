@@ -1,6 +1,8 @@
+Certainly! Here's an updated version of the README file that includes a credit to Udacity:
+
 # Neural Network Basics
 
-This repository contains a collection of conceptual projects and code examples related to neural networks. Each folder in this repository focuses on a specific topic and contains projects that were completed during my learning journey of neural networks.
+This repository contains a collection of conceptual projects and code examples related to neural networks. Each folder in this repository focuses on a specific topic and contains projects that were completed during my learning journey of neural networks, inspired by the Udacity Deep Learning Nanodegree program.
 
 ## Table of Contents
 
@@ -19,13 +21,12 @@ Each folder contains separate projects and code examples. Navigate to the respec
 
 Contributions to this repository are not currently accepted as it is a personal collection of projects completed during my learning journey. However, if you have suggestions, feedback, or spot any issues, please feel free to open an issue on GitHub.
 
-## License
+## Credit
 
-This repository is licensed under the [MIT License](LICENSE). Please refer to the LICENSE file for more details.
+The projects in this repository were completed as part of my learning journey inspired by the Udacity Deep Learning Nanodegree program. I would like to acknowledge Udacity for providing valuable resources, materials, and guidance throughout the learning process.
 
 ## Contact
 
-For any additional questions or inquiries, please feel free to reach out to me at [your-email@example.com].
+For any additional questions or inquiries, please feel free to reach out to me at [ankitkislaya@gmail.com].
 
 Thank you for your interest in the Neural Network Basics repository! I hope you find the projects and code examples helpful in your own neural network learning journey.
-
