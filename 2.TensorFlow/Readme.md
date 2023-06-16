@@ -19,12 +19,9 @@ Feel free to modify the code, experiment with different models, or explore furth
 
 Contributions to this folder are not currently accepted as it contains basic examples and a specific project. However, if you have suggestions, improvements, or spot any issues, please feel free to open an issue on GitHub.
 
-## License
-
-This folder is licensed under the [MIT License](../LICENSE). Please refer to the LICENSE file for more details.
 
 ## Contact
 
-For any additional questions or inquiries, please feel free to reach out to me at [your-email@example.com].
+For any additional questions or inquiries, please feel free to reach out to me at ankitkislaya@gmail.com.
 
 Thank you for exploring the TensorFlow folder! I hope these examples and the handwritten digit recognition project using TensorFlow provide insights into deep learning with TensorFlow and inspire further exploration in the field.
