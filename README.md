@@ -1,6 +1,6 @@
-# Neural Network Basics
+# Exploring-Neural-Networks
 
-This repository contains a collection of conceptual projects and code examples related to neural networks. Each folder in this repository focuses on a specific topic and contains projects that were completed during my learning journey of neural networks, inspired by the Udacity Deep Learning Nanodegree program.
+This repository contains a collection of conceptual projects and code examples related to neural networks. Each folder in this repository focuses on a specific topic and contains projects that were completed during my learning journey of neural networks, inspired by the Udacity Deep Learning Course.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Contributions to this repository are not currently accepted as it is a personal 
 
 ## Credit
 
-The projects in this repository were completed as part of my learning journey inspired by the Udacity Deep Learning Nanodegree program. I would like to acknowledge Udacity for providing valuable resources, materials, and guidance throughout the learning process.
+The projects in this repository were completed as part of my learning journey inspired by the Udacity Deep Learning Course. I would like to acknowledge Udacity for providing valuable resources, materials, and guidance throughout the learning process.
 
 ## Contact
 
