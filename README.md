@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of the README file that includes a credit to Udacity:
-
 # Neural Network Basics
 
 This repository contains a collection of conceptual projects and code examples related to neural networks. Each folder in this repository focuses on a specific topic and contains projects that were completed during my learning journey of neural networks, inspired by the Udacity Deep Learning Nanodegree program.
