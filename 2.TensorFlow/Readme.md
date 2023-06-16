@@ -4,8 +4,8 @@ This folder contains Jupyter Notebook examples and their PDF versions that demon
 
 ## Table of Contents
 
-- [Basic TensorFlow Examples]: This notebook provides simple and basic examples of using TensorFlow. It covers topics such as tensor operations, building and training simple models, and utilizing predefined TensorFlow functions and APIs. The PDF version of the notebook is also available for reference.
-- [Handwritten Digit Recognition]: In this notebook, deep neural networks are implemented using TensorFlow to predict handwritten images of digits in the MNIST dataset. It showcases the training and evaluation of various models, such as convolutional neural networks (CNNs) and feedforward neural networks (FNNs), for accurate digit classification. The PDF version of the notebook is also provided.
+- [Basic TensorFlow Examples](./BasicExamples.ipynb): This notebook provides simple and basic examples of using TensorFlow. It covers topics such as tensor operations, building and training simple models, and utilizing predefined TensorFlow functions and APIs. The PDF version of the notebook is also available for reference.
+- [Handwritten Digit Recognition](./HandwrittenDigitRecognition.ipynb): In this notebook, deep neural networks are implemented using TensorFlow to predict handwritten images of digits in the MNIST dataset. It showcases the training and evaluation of various models, such as convolutional neural networks (CNNs) and feedforward neural networks (FNNs), for accurate digit classification. The PDF version of the notebook is also provided.
 
 ## Usage
 
