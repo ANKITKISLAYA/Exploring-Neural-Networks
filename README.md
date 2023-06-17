@@ -25,6 +25,6 @@ The projects in this repository were completed as part of my learning journey in
 
 ## Contact
 
-For any additional questions or inquiries, please feel free to reach out to me at [ankitkislaya@gmail.com].
+For any additional questions or inquiries, please feel free to reach out to me at ankitkislaya@gmail.com.
 
 Thank you for your interest in the Neural Network Basics repository! I hope you find the projects and code examples helpful in your own neural network learning journey.
